@@ -39,7 +39,7 @@ For both dashboard projects, I worked through the raw datasets myself — handli
 
 ### 🎓 Education
 **MSITM Degree College**, Gonda, Uttar Pradesh — BCA, (2023–2026)
-**Gayatri Vidya Mandir Inter College**, Khaprihara, Maskanwa, Gonda, UP — 12th (2022–2023)
+**Gayatri Vidya Mandir Inter College**, Khapripara, Maskanwa, Gonda, UP — 12th (2022–2023)
 
 ---
 
