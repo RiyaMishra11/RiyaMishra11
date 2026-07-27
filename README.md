@@ -44,6 +44,4 @@ For both dashboard projects, I worked through the raw datasets myself — handli
 ---
 
 ### 📫 Connect with me
-[LinkedIn](www.linkedin.com/in/riyamishra11
-
-)
+[LinkedIn](www.linkedin.com/in/riyamishra11)
