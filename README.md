@@ -18,7 +18,7 @@
 **[GDP-Per-Capita-Analysis-Dashboard](https://github.com/RiyaMishra11/GDP-Per-Capita-Analysis-Dashboard)**
 This project focuses on exploring and visualizing GDP Per Capita data through an interactive dashboard. It enables users to analyze economic trends, compare countries, and gain meaningful insights using dynamic charts and filters.
 
-**[GDP-Per-Capita-Analysis-Dashboard](https://github.com/RiyaMishra11/Women-Safety-Crime-Analysis-Dashboard)**
+**[Women Safety & Crime Analysis Dashboard (2015–2024)](https://github.com/RiyaMishra11/Women-Safety-Crime-Analysis-Dashboard)**
 This project focuses on exploring and visualizing GDP Per Capita data through an interactive dashboard. It enables users to analyze economic trends, compare countries, and gain meaningful insights using dynamic charts and filters.
 
 **[Sales Performance Dashboard](https://github.com/RiyaMishra11/sales-performance-dashboard-excel)**
