@@ -19,7 +19,7 @@
 This project focuses on exploring and visualizing GDP Per Capita data through an interactive dashboard. It enables users to analyze economic trends, compare countries, and gain meaningful insights using dynamic charts and filters.
 
 **[Women Safety & Crime Analysis Dashboard (2015–2024)](https://github.com/RiyaMishra11/Women-Safety-Crime-Analysis-Dashboard)**
-This project focuses on exploring and visualizing GDP Per Capita data through an interactive dashboard. It enables users to analyze economic trends, compare countries, and gain meaningful insights using dynamic charts and filters.
+This project is an interactive Microsoft Excel dashboard created to analyze women safety-related crime data across Indian states from 2015 to 2024.
 
 **[Sales Performance Dashboard](https://github.com/RiyaMishra11/sales-performance-dashboard-excel)**
 Interactive Excel dashboard built on a public Kaggle sales dataset. Tracks total sales, profit, and order volume across regions, categories, and customer segments, with monthly trend analysis and a top 10 products breakdown.
