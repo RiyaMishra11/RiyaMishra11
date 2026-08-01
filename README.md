@@ -18,6 +18,9 @@
 **[GDP-Per-Capita-Analysis-Dashboard](https://github.com/RiyaMishra11/GDP-Per-Capita-Analysis-Dashboard))**
 This project focuses on exploring and visualizing GDP Per Capita data through an interactive dashboard. It enables users to analyze economic trends, compare countries, and gain meaningful insights using dynamic charts and filters.
 
+**[GDP-Per-Capita-Analysis-Dashboard](https://github.com/RiyaMishra11/GDP-Per-Capita-Analysis-Dashboard))**
+This project focuses on exploring and visualizing GDP Per Capita data through an interactive dashboard. It enables users to analyze economic trends, compare countries, and gain meaningful insights using dynamic charts and filters.
+
 **[Sales Performance Dashboard](https://github.com/RiyaMishra11/sales-performance-dashboard-excel)**
 Interactive Excel dashboard built on a public Kaggle sales dataset. Tracks total sales, profit, and order volume across regions, categories, and customer segments, with monthly trend analysis and a top 10 products breakdown.
 
