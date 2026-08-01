@@ -1,4 +1,4 @@
-### Hi, I'm Riya Mishra 👋
+### Hi, I'm RIYA MISHRA 👋
 
 🎓 MSITM Degree College, Gonda, Uttar Pradesh — BCA, (2023–2026) - Completed
 📊 Aspiring Data Analyst | Fresher
