@@ -36,9 +36,10 @@ Practice repository focused on Excel skills for data analysis — formulas, pivo
 **[PostgreSQL Practice](https://github.com/RiyaMishra11/sql-for-data-analyst)**
 SQL practice repository — queries and exercises using PostgreSQL.
 
-**[Indian-crime-analysis-sql(2015–2024)](https://github.com/RiyaMishra11/indian-crime-analysis-sql)**
-This project is an interactive Microsoft Excel dashboard created to analyze women safety-related crime data across Indian states from 2015 to 202
+**[Indian-crime-analysis-sql](https://github.com/RiyaMishra11/indian-crime-analysis-sql)**
+This project analyzes **Crime Against Women** data using SQL to identify crime trends, state-wise comparisons, yearly patterns, and key insights. The objective is to demonstrate SQL skills in database creation, data management, and analytical query writing.
 
+The project covers the complete SQL workflow, including database creation, table creation, data insertion, and data analysis using SQL queries.
 **[Python for Data Analyst](https://github.com/RiyaMishra11/python-for-data-analyst)**
 Practice repository applying Python to data analysis tasks.
 
