@@ -1,4 +1,4 @@
-### Hi, I'm RIYA MISHRA 👋
+### Hi, I'm Riya Mishra👋
 
 🎓 MSITM Degree College, Gonda, Uttar Pradesh — BCA, (2023–2026) - Completed
 📊 Aspiring Data Analyst | Fresher
@@ -39,10 +39,8 @@ SQL practice repository — queries and exercises using PostgreSQL.
 **[Indian-crime-analysis-sql](https://github.com/RiyaMishra11/indian-crime-analysis-sql)**
 This project analyzes **Crime Against Women** data using SQL to identify crime trends, state-wise comparisons, yearly patterns, and key insights. The objective is to demonstrate SQL skills in database creation, data management, and analytical query writing.
 
-The project covers the complete SQL workflow, including database creation, table creation, data insertion, and data analysis using SQL queries.
-**[Python for Data Analyst](https://github.com/RiyaMishra11/python-for-data-analyst)**
+**[Python for Data Analyst](https://github.com/RiyaMishra11/python-for-data-analyst)**The project covers the complete SQL workflow, including database creation, table creation, data insertion, and data analysis using SQL queries.
 Practice repository applying Python to data analysis tasks.
-
 For both dashboard projects, I worked through the raw datasets myself — handling missing values, fixing formatting inconsistencies, and structuring the data before building any visuals.
 
 ---
