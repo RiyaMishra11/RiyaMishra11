@@ -8,8 +8,8 @@
 ---
 
 ### 🧰 Skills
-**Data & Analysis:** Excel · SQL · Python  · Power BI
-. PostgreSQL .
+**Data & Analysis:** Data Science &  Data Analyst | Python | SQL | PostgreSQL | Excel | Power BI | Pandas | NumPy | Data Cleaning | Data Visualization.
+
 
 ---
 
