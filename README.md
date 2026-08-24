@@ -7,8 +7,6 @@
 
 ---
 
-### 🧰 Skills
-**Data & Analysis:**  | Python | SQL | PostgreSQL | Excel | Power BI | Pandas | NumPy | Data Cleaning | Data Visualization | build dashboards|.
 
 
 ---
